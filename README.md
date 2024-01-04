@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![SeaMonster2](https://github.com/opatki/web102_prework/assets/109177226/69142883-2d28-4309-bdcf-dc0b3ef46a09)
 
 GIF created with ScreenToGif
 
